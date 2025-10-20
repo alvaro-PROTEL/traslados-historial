@@ -2,11 +2,15 @@
   "33834": [
     {
       "fecha": "2025-10-20T18:18:19.797Z",
-      "texto": "HORA:19:23 / Dx:PIELO / FC:124 / SpO₂:98 / PA:122/70 / FR:15 / HGT:320 / T°:36 / GLW:15 | HORA:19:24 / FC:100 / SpO₂:90 / PA:90/40 / FR:12 / HGT:120 / T°:34 / GLW:12"
+      "texto": "HORA:19:23 / Dx:PIELO / FC:124 / SpOâ:98 / PA:122/70 / FR:15 / HGT:320 / TÂ°:36 / GLW:15 | HORA:19:24 / FC:100 / SpOâ:90 / PA:90/40 / FR:12 / HGT:120 / TÂ°:34 / GLW:12"
     },
     {
       "fecha": "2025-10-20T18:18:19.797Z",
-      "texto": "HORA:19:24 / FC:100 / SpO₂:90 / PA:90/40 / FR:12 / HGT:120 / T°:34 / GLW:12"
+      "texto": "HORA:19:24 / FC:100 / SpOâ:90 / PA:90/40 / FR:12 / HGT:120 / TÂ°:34 / GLW:12"
+    },
+    {
+      "fecha": "2025-10-20T18:28:55.087Z",
+      "texto": " / FC:130 / SpO₂:92 / PA:150/30 / FR:10 / HGT:100 / T°:35 / GLW:10"
     }
   ]
 }
