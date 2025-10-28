@@ -19,5 +19,12 @@
       "fecha": "2025-10-28T02:33:00.000Z",
       "texto": "INS RESPIRATORIA HIPOGLICEMIA"
     }
+  ],
+  "34370": [
+    {
+      "ts": "2025-10-28T18:47:00.000Z",
+      "fecha": "2025-10-28T18:47:00.000Z",
+      "texto": "ASCITIS  A TENSION   PA 114/70 P 95 SAT 96 AMB T 36.7 FR 24   HGT 167"
+    }
   ]
 }
